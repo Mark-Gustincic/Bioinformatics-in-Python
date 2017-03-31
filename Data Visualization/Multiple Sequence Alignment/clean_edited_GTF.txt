@@ -1,0 +1,797 @@
+ENTRY NUMBER 1 (1 of 8)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45238660
+  End: 45238840
+  Length: 180
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000098461.9"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-001"
+    exon_number 1
+
+
+ENTRY NUMBER 2 (2 of 8)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45238500
+  End: 45238572
+  Length: 72
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000098461.9"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-001"
+    exon_number 2
+
+
+ENTRY NUMBER 3 (3 of 8)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45237160
+  End: 45237284
+  Length: 124
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000098461.9"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-001"
+    exon_number 3
+
+
+ENTRY NUMBER 4 (4 of 8)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45237002
+  End: 45237076
+  Length: 74
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000098461.9"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-001"
+    exon_number 4
+
+
+ENTRY NUMBER 5 (5 of 8)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45236115
+  End: 45236219
+  Length: 104
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000098461.9"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-001"
+    exon_number 5
+
+
+ENTRY NUMBER 6 (6 of 8)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45235407
+  End: 45235643
+  Length: 236
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000098461.9"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-001"
+    exon_number 6
+
+
+ENTRY NUMBER 7 (7 of 8)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45234684
+  End: 45234767
+  Length: 83
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000098461.9"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-001"
+    exon_number 7
+
+
+ENTRY NUMBER 8 (8 of 8)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45233632
+  End: 45233978
+  Length: 346
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000098461.9"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-001"
+    exon_number 8
+
+
+ENTRY NUMBER 9 (1 of 6)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45238660
+  End: 45238815
+  Length: 155
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000209779.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-004"
+    exon_number 1
+
+
+ENTRY NUMBER 10 (2 of 6)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45238500
+  End: 45238572
+  Length: 72
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000209779.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-004"
+    exon_number 2
+
+
+ENTRY NUMBER 11 (3 of 6)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45237160
+  End: 45237284
+  Length: 124
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000209779.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-004"
+    exon_number 3
+
+
+ENTRY NUMBER 12 (4 of 6)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45237002
+  End: 45237076
+  Length: 74
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000209779.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-004"
+    exon_number 4
+
+
+ENTRY NUMBER 13 (5 of 6)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45236115
+  End: 45236219
+  Length: 104
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000209779.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-004"
+    exon_number 5
+
+
+ENTRY NUMBER 14 (6 of 6)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45233637
+  End: 45235643
+  Length: 2006
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000209779.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-004"
+    exon_number 6
+
+
+ENTRY NUMBER 15 (1 of 9)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45238960
+  End: 45239115
+  Length: 155
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000033063.14"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-002"
+    exon_number 1
+
+
+ENTRY NUMBER 16 (2 of 9)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45238660
+  End: 45238734
+  Length: 74
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000033063.14"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-002"
+    exon_number 2
+
+
+ENTRY NUMBER 17 (3 of 9)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45238500
+  End: 45238572
+  Length: 72
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000033063.14"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-002"
+    exon_number 3
+
+
+ENTRY NUMBER 18 (4 of 9)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45237160
+  End: 45237284
+  Length: 124
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000033063.14"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-002"
+    exon_number 4
+
+
+ENTRY NUMBER 19 (5 of 9)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45237002
+  End: 45237076
+  Length: 74
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000033063.14"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-002"
+    exon_number 5
+
+
+ENTRY NUMBER 20 (6 of 9)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45236115
+  End: 45236219
+  Length: 104
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000033063.14"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-002"
+    exon_number 6
+
+
+ENTRY NUMBER 21 (7 of 9)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45235407
+  End: 45235643
+  Length: 236
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000033063.14"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-002"
+    exon_number 7
+
+
+ENTRY NUMBER 22 (8 of 9)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45234684
+  End: 45234767
+  Length: 83
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000033063.14"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-002"
+    exon_number 8
+
+
+ENTRY NUMBER 23 (9 of 9)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45233641
+  End: 45233978
+  Length: 337
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000033063.14"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-002"
+    exon_number 9
+
+
+ENTRY NUMBER 24 (1 of 3)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45235407
+  End: 45235499
+  Length: 92
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000210226.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "nonsense_mediated_decay"
+    transcript_name "Cd37-009"
+    exon_number 1
+
+
+ENTRY NUMBER 25 (2 of 3)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45234624
+  End: 45234767
+  Length: 143
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000210226.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "nonsense_mediated_decay"
+    transcript_name "Cd37-009"
+    exon_number 2
+
+
+ENTRY NUMBER 26 (3 of 3)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45233643
+  End: 45233978
+  Length: 335
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000210226.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "nonsense_mediated_decay"
+    transcript_name "Cd37-009"
+    exon_number 3
+
+
+ENTRY NUMBER 27 (1 of 5)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45237002
+  End: 45237087
+  Length: 85
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000209677.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "processed_transcript"
+    transcript_name "Cd37-007"
+    exon_number 1
+
+
+ENTRY NUMBER 28 (2 of 5)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45236115
+  End: 45236219
+  Length: 104
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000209677.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "processed_transcript"
+    transcript_name "Cd37-007"
+    exon_number 2
+
+
+ENTRY NUMBER 29 (3 of 5)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45235407
+  End: 45235643
+  Length: 236
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000209677.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "processed_transcript"
+    transcript_name "Cd37-007"
+    exon_number 3
+
+
+ENTRY NUMBER 30 (4 of 5)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45234684
+  End: 45234767
+  Length: 83
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000209677.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "processed_transcript"
+    transcript_name "Cd37-007"
+    exon_number 4
+
+
+ENTRY NUMBER 31 (5 of 5)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45233891
+  End: 45233978
+  Length: 87
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000209677.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "processed_transcript"
+    transcript_name "Cd37-007"
+    exon_number 5
+
+
+ENTRY NUMBER 32 (1 of 7)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45238660
+  End: 45238874
+  Length: 214
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000211373.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-003"
+    exon_number 1
+
+
+ENTRY NUMBER 33 (2 of 7)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45238500
+  End: 45238572
+  Length: 72
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000211373.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-003"
+    exon_number 2
+
+
+ENTRY NUMBER 34 (3 of 7)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45237160
+  End: 45237284
+  Length: 124
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000211373.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-003"
+    exon_number 3
+
+
+ENTRY NUMBER 35 (4 of 7)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45237002
+  End: 45237076
+  Length: 74
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000211373.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-003"
+    exon_number 4
+
+
+ENTRY NUMBER 36 (5 of 7)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45236115
+  End: 45236219
+  Length: 104
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000211373.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-003"
+    exon_number 5
+
+
+ENTRY NUMBER 37 (6 of 7)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45235407
+  End: 45235643
+  Length: 236
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000211373.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-003"
+    exon_number 6
+
+
+ENTRY NUMBER 38 (7 of 7)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45234170
+  End: 45234767
+  Length: 597
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000211373.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-003"
+    exon_number 7
+
+
+ENTRY NUMBER 39 (1 of 3)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45235407
+  End: 45235458
+  Length: 51
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000210000.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "processed_transcript"
+    transcript_name "Cd37-008"
+    exon_number 1
+
+
+ENTRY NUMBER 40 (2 of 3)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45234684
+  End: 45234767
+  Length: 83
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000210000.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "processed_transcript"
+    transcript_name "Cd37-008"
+    exon_number 2
+
+
+ENTRY NUMBER 41 (3 of 3)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45234350
+  End: 45234500
+  Length: 150
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000210000.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "processed_transcript"
+    transcript_name "Cd37-008"
+    exon_number 3
+
+
+ENTRY NUMBER 42 (1 of 7)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45238960
+  End: 45239057
+  Length: 97
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000210078.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-006"
+    exon_number 1
+
+
+ENTRY NUMBER 43 (2 of 7)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45238500
+  End: 45238572
+  Length: 72
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000210078.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-006"
+    exon_number 2
+
+
+ENTRY NUMBER 44 (3 of 7)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45237160
+  End: 45237284
+  Length: 124
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000210078.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-006"
+    exon_number 3
+
+
+ENTRY NUMBER 45 (4 of 7)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45237002
+  End: 45237076
+  Length: 74
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000210078.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-006"
+    exon_number 4
+
+
+ENTRY NUMBER 46 (5 of 7)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45236115
+  End: 45236219
+  Length: 104
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000210078.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-006"
+    exon_number 5
+
+
+ENTRY NUMBER 47 (6 of 7)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45235407
+  End: 45235643
+  Length: 236
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000210078.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-006"
+    exon_number 6
+
+
+ENTRY NUMBER 48 (7 of 7)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45234738
+  End: 45234767
+    Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000210078.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-006"
+    exon_number 7
+
+
+ENTRY NUMBER 49 (1 of 2)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45238660
+  End: 45238796
+  Exon Length: 136
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000210372.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-005"
+    exon_number 1
+
+
+ENTRY NUMBER 50 (2 of 2)
+  Chromosome: chr7
+  Feature: exon
+  Start: 45237750
+  End: 45238572
+  Exon Length: 822
+  Attributes:
+    gene_id "ENSMUSG00000030798.15"
+    transcript_id "ENSMUST00000210372.1"
+    gene_type "protein_coding"
+    gene_name "Cd37"
+    transcript_type "protein_coding"
+    transcript_name "Cd37-005"
+    exon_number 2
